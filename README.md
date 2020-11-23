@@ -7,3 +7,4 @@ A pipeline for cell monolayer image analysis. It's a Beta version. Contact me di
 - Pesquisador no Grupo de Física Biológica (LabCel) e Computacional (MTC)
 - Instituto de Física da UFRGS - Sala M201, tel.: (51) 3308-6511
 - Tel./Whats: (051) 98619-9919
+- Brazil, Rio Grande do Sul
